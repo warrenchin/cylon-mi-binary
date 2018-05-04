@@ -1,0 +1,32 @@
+{
+  "name": "cylon-mi-binary",
+  "description": "Xiaomi MiHome binary protocol adapter for Cylon",
+  "version": "0.1.0",
+  "repository": "warrenchin/cylon-mi-binary",
+  "license": "MIT",
+  "keywords": [
+    "xiaomi",
+    "mi",
+    "wifi",
+    "aqara",
+    "mijia",
+    "lumi",
+    "cylon",
+    "cylonjs",
+    "iot"
+  ],
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "3.0.0",
+    "chai-bytes": "^0.1.1",
+    "mocha": "^2.2.5",
+    "sinon": "1.15.4",
+    "sinon-chai": "2.8.0"
+  },
+  "dependencies": {
+    "cylon": "1.2.0",
+    "debug": "^3.1.0"
+  }
+}
