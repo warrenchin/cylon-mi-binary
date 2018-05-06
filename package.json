@@ -10,10 +10,16 @@
     "wifi",
     "aqara",
     "mijia",
-    "lumi",
     "cylon",
     "cylonjs",
-    "iot"
+    "iot",
+    "plug",
+    "powerstrip",
+    "kettle",
+    "lumi",
+    "zimi",
+    "chuangmi",
+    "yunmi"
   ],
   "scripts": {
     "test": "mocha"
@@ -27,6 +33,7 @@
   },
   "dependencies": {
     "cylon": "1.2.0",
-    "debug": "^3.1.0"
+    "debug": "^3.1.0",
+    "supports-color": "^5.4.0"
   }
 }
